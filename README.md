@@ -4,6 +4,10 @@ Hello, my name is Luying Min.
 
 please refresh the page when you using my project and the map couldn't display correctly.
 
+link to homepage:
+
+https://cs5610homepage.herokuapp.com/
+
 link to project:
 
 https://cs5610project-we-are-close.herokuapp.com/
